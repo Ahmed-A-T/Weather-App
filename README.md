@@ -27,7 +27,7 @@ A simple and responsive web application that provides real-time weather informat
 
 ## 📁 Project Structure
 
-`
+```
 /root
   ├── /img
   │   └── *.img       # Contains all the images for the app
@@ -35,12 +35,14 @@ A simple and responsive web application that provides real-time weather informat
   ├── index.html           # Main HTML file for the application
   ├── style.css            # Main Style file for the application
   ├── README.md            # Project documentation
-`
+````
 
 ## How It Works
 1. Enter a City Name: The user inputs the name of a city into the search bar.
 2. Fetch Weather Data: A request is sent to the weather API to fetch real-time weather information for the specified city.
 3. Display Weather Details: The weather data (temperature, humidity, etc.) is displayed on the screen for the user to view.
+
+![The App Workflow](https://files.oaiusercontent.com/file-fc8AxYaXgrcRjFTLkshrKnqO?se=2024-10-17T20%3A18%3A30Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dcadc71cf-887a-4771-afbc-65520fac470a.webp&sig=75txQjOK3yaSq171DXDk5buIXZeAsUEbK%2BVFmhJAhhI%3D)
 
 ## Installation & Usage
 To run this project locally:

@@ -42,7 +42,7 @@ A simple and responsive web application that provides real-time weather informat
 2. Fetch Weather Data: A request is sent to the weather API to fetch real-time weather information for the specified city.
 3. Display Weather Details: The weather data (temperature, humidity, etc.) is displayed on the screen for the user to view.
 
-![The App Workflow](AppWorkFlow.webp)
+![The App Workflow](AppWorkFlow1.webp)
 
 ## Installation & Usage
 To run this project locally:

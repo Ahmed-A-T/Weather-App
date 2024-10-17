@@ -60,7 +60,7 @@ open index.html
 `
 
 ## Demo
-Check out the live demo:
+Check out the live demo: [Link to live demo](https://www.youtube.com/watch?v=6tNr7TXcF8M)
 
 ## Future Improvements
 * Add a 5-day weather forecast feature.
@@ -76,7 +76,7 @@ Check out the live demo:
 ## Contributing
 Feel free to fork this repository and submit pull requests if you’d like to contribute to the project!
 ## License
-This project is open-source and available under the
+This project is open-source and available under the [MIT License](https://opensource.org/license/MIT)
 
 ## Contact
-For any inquiries or feedback, you can reach me at [YourEmail@example.com] or connect with me on LinkedIn.
+For any inquiries or feedback, you can reach me at [Gmail](ahmedhafez.ta@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ahmed-abdelhafez-taha-72171517b).
